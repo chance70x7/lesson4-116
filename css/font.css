@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Tourney';
+    src: url('../font/Tourney-BlackItalic.eot');
+    src: url('../font/Tourney-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../font/Tourney-BlackItalic.woff2') format('woff2'),
+        url('../font/Tourney-BlackItalic.woff') format('woff'),
+        url('../font/Tourney-BlackItalic.svg#Tourney-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
